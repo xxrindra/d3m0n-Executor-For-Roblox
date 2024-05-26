@@ -6,5 +6,5 @@ d3m0n is a closed source (but free) ROBLOX script Executor. This is the first 10
 
 # Notes
 - Bypasses Byfron
-- Level 6 Executor
+- Level 6(6.5 on v1.2.2) Executor
 
